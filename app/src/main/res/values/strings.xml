@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesSqLite</string>
+    <string name="todo">TODO</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="welcome_to_notes_app">Welcome To Notes App</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="update_note">Update Note</string>
+</resources>
