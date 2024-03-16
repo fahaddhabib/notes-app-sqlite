@@ -13,8 +13,15 @@ Technologies Used
     Kotlin: The app is developed using the Kotlin programming language.
     SQLite Database: Efficient and reliable storage for managing notes.
 
-Screenshots
+## Screenshots
 
+
+<p float="left">
+  <img src="https://github.com/fahaddhabib/notes-app-sqlite/blob/master/assets/ss1.jpg" width="200" />
+  <img src="https://github.com/fahaddhabib/notes-app-sqlite/blob/master/assets/ss2.jpg" width="200" />
+  <img src="https://github.com/fahaddhabib/notes-app-sqlite/blob/master/assets/ss3.jpg" width="200" />
+  <img src="https://github.com/fahaddhabib/notes-app-sqlite/blob/master/assets/ss4.jpg" width="200" />
+</p>
 
 Getting Started
 
